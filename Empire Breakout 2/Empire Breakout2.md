@@ -1,15 +1,34 @@
+# Empire Breakout Walkthrough
+
 Hi there, Whitej is here with another vulnhub walkthrough. Let the fun begin!😁️
 
 
-We  will be pentesting a vunerable machine called Empire Breakout.
-Firstly the connection(trust me,this is a headache even for Network Engineers and Experts!)
+## Connection
+We will be pentesting a vulnerable machine called Empire Breakout. The connection process can be a headache, even for Network Engineers and Experts. We will be connecting through NAT, with the following IP addresses:
 
-We would be connecting through NAT, we have our IP addresses 
-192.168.136.128(Kali: Attack Machine)
-192.168.136.129(Linux Debian : Victim Machine)
+Kali (Attack Machine): 192.168.136.128
+Linux Debian (Victim Machine): 192.168.136.129
+Luckily, the machine has already been assigned an IP address and displays it:
 
-Your IP address might be different(depends on your network adapter)
+ def IP address():
+  print("IP : 192.168.136.129")
+
+
+![alt text](image.png)'
+
+
+Thank you Mr Breakout😎️!
  
-Luckily and rarely the case,  the machine  has already been assigned an eth0 address and it  even displays the address
+ Things just got a whole lot easier😉️😉️😉️
+ 
+ But to be thorough pentesters that we are, we have to still run our arp scan to see all the connected devices on our network using the arp-scan or netdiscover
 
-<img src=>
+"sudo arp-scan -l"
+
+# Or
+
+"sudo netdiscover -i eth0 -r <Ip adress range>.0/24 "
+
+ ![alt text](image-1.png)
+
+ I think we  know the culprit by now
