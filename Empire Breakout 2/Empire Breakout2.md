@@ -18,9 +18,9 @@ Luckily, the machine has already been assigned an IP address and displays it:
  ``` sh
  "IP : 192.168.136.129" 
  ```
+![alt img](images/1-1.png)
 
 
-![alt img](image.png)
 
  So  we have our **Linux Debian (Victim Machine): 192.168.136.129**
 
@@ -40,7 +40,7 @@ Thank you Mr Breakout😎️!
 "sudo netdiscover -i eth0 -r <Ip address range>.0/24 "
 ```
 
- ![alt img](image-1.png)
+ ![alt img](images/1-2.png)
 
  I think we  know the culprit by now
 
@@ -49,4 +49,22 @@ Thank you Mr Breakout😎️!
 Let start  gathering some juicy info , starting with nmap
 We need to know which port is open and what services are running there
 
-![alt img]()
+![alt img](images/2-1.png)
+
+From the above results, we see some ports open:
+
+| PORTS  | SERVICES     |
+|--------|--------------|
+| 80     | HTTP         |
+| 139    | SMBD         |
+| 445    | SMBD         |
+| 10000  | HTTP WEBMIN  |
+| 20000  | HTTP WEBMIN  |
+
+
+The OS is Linux 4.15 -5.8
+
+Using Nikto to check  web vunerabilities
+
+ ![alt img](images/2-2.png)
+
