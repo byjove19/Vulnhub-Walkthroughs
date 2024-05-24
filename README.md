@@ -27,16 +27,10 @@ Explore our popular walkthroughs:
 - **[Empire Breakout 2](https://www.vulnhub.com/entry/empirebreakout2,101/)**: Dive into post-exploitation and privilege escalation.
 - ## and many more....
 - 
-## Platforms
+## Platform
 
-### VulnHub
+**VulnHub**
 VulnHub provides a collection of vulnerable machines designed to help you practice and improve your hacking skills. You can browse and download a wide variety of machines from their website: [VulnHub](https://www.vulnhub.com/).
-
-### TryHackMe
-TryHackMe offers a variety of learning paths and individual machines to practice your skills. It's a great platform for both beginners and advanced users. Check out their platform and subscribe for more challenges: [TryHackMe](https://www.tryhackme.com/).
-
-### Hack The Box
-Hack The Box is a popular platform providing a range of hacking challenges from beginner to advanced. Joining their community can help you sharpen your skills through hands-on practice. Subscribe and start hacking: [Hack The Box](https://www.hackthebox.eu/).
   
 ## Features
 
