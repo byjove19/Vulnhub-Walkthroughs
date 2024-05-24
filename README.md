@@ -25,19 +25,23 @@ Explore our popular walkthroughs:
 - **[Kioptrix 1](https://www.vulnhub.com/entry/kioptrix1,789/)**: Gain insights into basic vulnerability assessments.
 - **[Drifting Blues 2](https://www.vulnhub.com/entry/driftingblues2,748/)**: Master beginner-level penetration testing techniques.
 - **[Empire Breakout 2](https://www.vulnhub.com/entry/empirebreakout2,101/)**: Dive into post-exploitation and privilege escalation.
+- ## and many more....
+- 
+## Platforms
 
-### Download Links
+### VulnHub
+VulnHub provides a collection of vulnerable machines designed to help you practice and improve your hacking skills. You can browse and download a wide variety of machines from their website: [VulnHub](https://www.vulnhub.com/).
 
-- [Download Morpheus 2 from VulnHub](https://www.vulnhub.com/entry/morpheus2,123/)
-- [Download Red 1 from VulnHub](https://www.vulnhub.com/entry/red1,456/)
-- [Download Kioptrix 1 from VulnHub](https://www.vulnhub.com/entry/kioptrix1,789/)
-- [Download Drifting Blues 2 from VulnHub](https://www.vulnhub.com/entry/driftingblues2,748/)
-- [Download Empire Breakout 2 from VulnHub](https://www.vulnhub.com/entry/empirebreakout2,101/)
+### TryHackMe
+TryHackMe offers a variety of learning paths and individual machines to practice your skills. It's a great platform for both beginners and advanced users. Check out their platform and subscribe for more challenges: [TryHackMe](https://www.tryhackme.com/).
 
+### Hack The Box
+Hack The Box is a popular platform providing a range of hacking challenges from beginner to advanced. Joining their community can help you sharpen your skills through hands-on practice. Subscribe and start hacking: [Hack The Box](https://www.hackthebox.eu/).
+  
 ## Features
 
 - **Beginner-Friendly**: Tailored for beginners, providing clear and concise instructions.
-- **Engaging Content**: Fun and interactive learning experience with WhiteJ.
+- **Engaging Content**: Fun and interactive learning experience with  virtual teacher, WhiteJ.
 - **Comprehensive Learning**: Covers essential tools and techniques in ethical hacking.
 
 ## Installation
