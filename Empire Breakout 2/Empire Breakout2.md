@@ -138,7 +138,7 @@ Nice one, you are getting the hang of it.
 
 Lets look on further for more, hidden directories using gobuster 
 ```sh
-"gobuster dir -u http://<ip address> -w /usr/share/dirbuster/wordlists/directoy
+"gobuster dir -u http://<ip address> -w /usr/share/dirbuster/wordlists/directory"
 ```
 ![alt img](images/5-1.png)
 
