@@ -29,8 +29,7 @@ Explore our popular walkthroughs:
 - 
 ## Platform
 
-**VulnHub**
-VulnHub provides a collection of vulnerable machines designed to help you practice and improve your hacking skills. You can browse and download a wide variety of machines from their website: [VulnHub](https://www.vulnhub.com/).
+**VulnHub** provides a collection of vulnerable machines designed to help you practice and improve your hacking skills. You can browse and download a wide variety of machines from their website: [VulnHub](https://www.vulnhub.com/).
   
 ## Features
 
