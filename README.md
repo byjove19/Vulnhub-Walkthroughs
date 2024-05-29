@@ -25,8 +25,8 @@ Explore our popular walkthroughs:
 - **[Kioptrix 1](https://www.vulnhub.com/entry/kioptrix1,789/)**: Gain insights into basic vulnerability assessments.
 - **[Drifting Blues 2](https://www.vulnhub.com/entry/driftingblues2,748/)**: Master beginner-level penetration testing techniques.
 - **[Empire Breakout 2](https://www.vulnhub.com/entry/empirebreakout2,101/)**: Dive into post-exploitation and privilege escalation.
-- ## and many more....
-- 
+  ## and many more....
+
 ## Platform
 
 **VulnHub** provides a collection of vulnerable machines designed to help you practice and improve your hacking skills. You can browse and download a wide variety of machines from their website: [VulnHub](https://www.vulnhub.com/).
